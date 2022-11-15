@@ -1,0 +1,15 @@
+C:\Users\eworld\Desktop\code_problems_with_OOP\GuessGame\bin\Debug\net6.0\GuessGame.exe
+C:\Users\eworld\Desktop\code_problems_with_OOP\GuessGame\bin\Debug\net6.0\GuessGame.deps.json
+C:\Users\eworld\Desktop\code_problems_with_OOP\GuessGame\bin\Debug\net6.0\GuessGame.runtimeconfig.json
+C:\Users\eworld\Desktop\code_problems_with_OOP\GuessGame\bin\Debug\net6.0\GuessGame.dll
+C:\Users\eworld\Desktop\code_problems_with_OOP\GuessGame\bin\Debug\net6.0\GuessGame.pdb
+C:\Users\eworld\Desktop\code_problems_with_OOP\GuessGame\obj\Debug\net6.0\GuessGame.csproj.AssemblyReference.cache
+C:\Users\eworld\Desktop\code_problems_with_OOP\GuessGame\obj\Debug\net6.0\GuessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eworld\Desktop\code_problems_with_OOP\GuessGame\obj\Debug\net6.0\GuessGame.AssemblyInfoInputs.cache
+C:\Users\eworld\Desktop\code_problems_with_OOP\GuessGame\obj\Debug\net6.0\GuessGame.AssemblyInfo.cs
+C:\Users\eworld\Desktop\code_problems_with_OOP\GuessGame\obj\Debug\net6.0\GuessGame.csproj.CoreCompileInputs.cache
+C:\Users\eworld\Desktop\code_problems_with_OOP\GuessGame\obj\Debug\net6.0\GuessGame.dll
+C:\Users\eworld\Desktop\code_problems_with_OOP\GuessGame\obj\Debug\net6.0\refint\GuessGame.dll
+C:\Users\eworld\Desktop\code_problems_with_OOP\GuessGame\obj\Debug\net6.0\GuessGame.pdb
+C:\Users\eworld\Desktop\code_problems_with_OOP\GuessGame\obj\Debug\net6.0\GuessGame.genruntimeconfig.cache
+C:\Users\eworld\Desktop\code_problems_with_OOP\GuessGame\obj\Debug\net6.0\ref\GuessGame.dll

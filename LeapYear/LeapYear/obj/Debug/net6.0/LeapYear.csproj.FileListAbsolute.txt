@@ -1,0 +1,15 @@
+C:\Users\eworld\Desktop\code_problems_with_OOP\LeapYear\LeapYear\bin\Debug\net6.0\LeapYear.exe
+C:\Users\eworld\Desktop\code_problems_with_OOP\LeapYear\LeapYear\bin\Debug\net6.0\LeapYear.deps.json
+C:\Users\eworld\Desktop\code_problems_with_OOP\LeapYear\LeapYear\bin\Debug\net6.0\LeapYear.runtimeconfig.json
+C:\Users\eworld\Desktop\code_problems_with_OOP\LeapYear\LeapYear\bin\Debug\net6.0\LeapYear.dll
+C:\Users\eworld\Desktop\code_problems_with_OOP\LeapYear\LeapYear\bin\Debug\net6.0\LeapYear.pdb
+C:\Users\eworld\Desktop\code_problems_with_OOP\LeapYear\LeapYear\obj\Debug\net6.0\LeapYear.csproj.AssemblyReference.cache
+C:\Users\eworld\Desktop\code_problems_with_OOP\LeapYear\LeapYear\obj\Debug\net6.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eworld\Desktop\code_problems_with_OOP\LeapYear\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfoInputs.cache
+C:\Users\eworld\Desktop\code_problems_with_OOP\LeapYear\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfo.cs
+C:\Users\eworld\Desktop\code_problems_with_OOP\LeapYear\LeapYear\obj\Debug\net6.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\eworld\Desktop\code_problems_with_OOP\LeapYear\LeapYear\obj\Debug\net6.0\LeapYear.dll
+C:\Users\eworld\Desktop\code_problems_with_OOP\LeapYear\LeapYear\obj\Debug\net6.0\refint\LeapYear.dll
+C:\Users\eworld\Desktop\code_problems_with_OOP\LeapYear\LeapYear\obj\Debug\net6.0\LeapYear.pdb
+C:\Users\eworld\Desktop\code_problems_with_OOP\LeapYear\LeapYear\obj\Debug\net6.0\LeapYear.genruntimeconfig.cache
+C:\Users\eworld\Desktop\code_problems_with_OOP\LeapYear\LeapYear\obj\Debug\net6.0\ref\LeapYear.dll
